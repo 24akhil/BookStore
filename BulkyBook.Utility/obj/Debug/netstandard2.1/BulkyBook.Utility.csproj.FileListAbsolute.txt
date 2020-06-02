@@ -1,0 +1,17 @@
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.Utility\bin\Debug\netstandard2.1\BulkyBook.Utility.deps.json
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.Utility\bin\Debug\netstandard2.1\BulkyBook.Utility.dll
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.Utility\bin\Debug\netstandard2.1\BulkyBook.Utility.pdb
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.Utility\obj\Debug\netstandard2.1\BulkyBook.Utility.AssemblyInfoInputs.cache
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.Utility\obj\Debug\netstandard2.1\BulkyBook.Utility.AssemblyInfo.cs
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.Utility\obj\Debug\netstandard2.1\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.Utility\obj\Debug\netstandard2.1\BulkyBook.Utility.dll
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.Utility\obj\Debug\netstandard2.1\BulkyBook.Utility.pdb
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.Utility\obj\Debug\netstandard2.1\BulkyBook.Utility.csprojAssemblyReference.cache
+F:\Diaspark\Training\DotNetCoreTraining\BookStore\BulkyBook.Utility\bin\Debug\netstandard2.1\BulkyBook.Utility.deps.json
+F:\Diaspark\Training\DotNetCoreTraining\BookStore\BulkyBook.Utility\bin\Debug\netstandard2.1\BulkyBook.Utility.dll
+F:\Diaspark\Training\DotNetCoreTraining\BookStore\BulkyBook.Utility\bin\Debug\netstandard2.1\BulkyBook.Utility.pdb
+F:\Diaspark\Training\DotNetCoreTraining\BookStore\BulkyBook.Utility\obj\Debug\netstandard2.1\BulkyBook.Utility.AssemblyInfoInputs.cache
+F:\Diaspark\Training\DotNetCoreTraining\BookStore\BulkyBook.Utility\obj\Debug\netstandard2.1\BulkyBook.Utility.AssemblyInfo.cs
+F:\Diaspark\Training\DotNetCoreTraining\BookStore\BulkyBook.Utility\obj\Debug\netstandard2.1\BulkyBook.Utility.dll
+F:\Diaspark\Training\DotNetCoreTraining\BookStore\BulkyBook.Utility\obj\Debug\netstandard2.1\BulkyBook.Utility.pdb
+F:\Diaspark\Training\DotNetCoreTraining\BookStore\BulkyBook.Utility\obj\Debug\netstandard2.1\BulkyBook.Utility.csprojAssemblyReference.cache

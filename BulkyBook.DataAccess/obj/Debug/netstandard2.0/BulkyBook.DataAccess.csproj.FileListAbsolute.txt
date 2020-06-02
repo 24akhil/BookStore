@@ -1,0 +1,14 @@
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.DataAccess\bin\Debug\netstandard2.0\BulkyBook.DataAccess.deps.json
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.DataAccess\bin\Debug\netstandard2.0\BulkyBook.DataAccess.dll
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.DataAccess\bin\Debug\netstandard2.0\BulkyBook.DataAccess.pdb
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.DataAccess\obj\Debug\netstandard2.0\BulkyBook.DataAccess.csprojAssemblyReference.cache
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.DataAccess\obj\Debug\netstandard2.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.DataAccess\obj\Debug\netstandard2.0\BulkyBook.DataAccess.AssemblyInfo.cs
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.DataAccess\obj\Debug\netstandard2.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.DataAccess\obj\Debug\netstandard2.0\BulkyBook.DataAccess.dll
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.DataAccess\obj\Debug\netstandard2.0\BulkyBook.DataAccess.pdb
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.DataAccess\bin\Debug\netstandard2.0\BulkyBook.Models.dll
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.DataAccess\bin\Debug\netstandard2.0\BulkyBook.Utility.dll
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.DataAccess\bin\Debug\netstandard2.0\BulkyBook.Models.pdb
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.DataAccess\bin\Debug\netstandard2.0\BulkyBook.Utility.pdb
+F:\Diaspark\Training\DotNetCoreTraining\BulkyBook.DataAccess\obj\Debug\netstandard2.0\BulkyBook.DataAccess.csproj.CopyComplete
